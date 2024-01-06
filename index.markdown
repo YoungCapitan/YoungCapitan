@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-We spread the word about the super Lion wo is also the lamb n this page. You can read more about the [lion here](/lion/)
+We spread the word about the super Lion who is also the lamb. On this page, you can read more about the [lion here](/lion/)

@@ -5,7 +5,7 @@ permalink: /Counselling/
 ---
 
 
-For Counselling, make appointment at:
+If you are burdened with issues and need counselling, make appointment at:
 
 rccg@christembassy.org
 
